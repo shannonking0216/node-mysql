@@ -1,5 +1,7 @@
 Bamazon App:
 
+Please note: There are photos of the app working in the issues section. 
+
 1. All of the items available for sale are displayed in a table in the terminal. Including the ids, names, and prices of products for sale. 
 
 2. The app prompts users with two messages.
